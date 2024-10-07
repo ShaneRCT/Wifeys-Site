@@ -1,0 +1,19 @@
+html {
+  background-color: #715378;
+  text-align: center;
+  background-image: url(./images/background.png);
+  background-position: center;
+}
+h1 {
+  color: black;
+}
+
+img {
+  border: 2px solid black;
+  border-radius: 20px;
+  display: inline-block;
+  object-fit: cover;
+  width: 200px;
+  height: 200px;
+  margin: 4px;
+}
